@@ -1,3 +1,3 @@
 # app-dev
 ## My first repository
-**My favorite movie is 3 idiots.**
+**My favorite movies are 3 idiots, the titanic, and train to busan .**
